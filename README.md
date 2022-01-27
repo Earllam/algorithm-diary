@@ -5,11 +5,15 @@
   </a>
 </p>
  
-> Algorithm diary
+> Algorithm diary (JavaScript)
 
-## ✨ Content
+## ✨ Content (updating...)
 
-暂无
+### 栈与队列
+
+- [用两个栈实现队列](https://github.com/Earllam/algorithm-diary/issues/1)
+- [包含min函数的栈](https://github.com/Earllam/algorithm-diary/issues/2)
+
 
 ## 📝 Plan
 
